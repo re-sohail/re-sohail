@@ -4,7 +4,15 @@ Hi 👋 My name is Sohail Khan
 Web Developer, and Designer
 -----------------------
 
-I'm a web developer who's just crazy about coding. Always up for a challenge, I'm on a mission to keep learning and exploring the exciting world of web technologies!
+Trying to make "Hello World" the new "abc";
+
+Resigned as a UI/UX Designer at SoftZone IT Solution, now pursuing my passion for education of React and NodeJs.
+
+I am an Undergraduate Information Technology Student from Ghazi University, DG Khan. I have interned twice with SoftZone IT Solution. & worked on a few projects.
+
+Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (Java), and Web Development (React, NodeJs, MySQL). And what I might lack in skills I make up for with my determination to learn. 
+
+Outside of tech, I am a tea lover, an avid actor and have spent my university days exploring tea stall.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [workforkhauf@gmail.com](mailto:workforkhauf@gmail.com)
