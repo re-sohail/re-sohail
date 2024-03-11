@@ -1,18 +1,14 @@
 Hi 👋 My name is Sohail Khan
 ============================
 
-Web Developer, and Designer
+Web Developer @ SoftZone IT Solution | React, GSAP
 -----------------------
 
-Trying to make "Hello World" the new "abc";
+As a Web Developer at SoftZone IT Solution, I have developed specialized online platforms for various industries, such as livestock, auction, and cars, using JavaScript, Node.js, and MySQL. I have leveraged my skills in GreenSock Animation Platform (GSAP), Scroll Trigger, and Locomotive to create dynamic and engaging web pages that enhance the user experience and satisfaction.
 
-Resigned as a UI/UX Designer at SoftZone IT Solution, now pursuing my passion for education of React and NodeJs.
+I am an undergraduate student at Ghazi University, pursuing a Bachelor of Science in Information Technology. I have a passion for learning and exploring new technologies and frameworks, such as React and Node.js, that drive change and innovation in the world. I have also earned multiple certifications in HTML5, CSS3, and JavaScript from KGCoding by Prashant Sir and other Certification provider's Companies, demonstrating my commitment and proficiency in web development. 
 
-I am an Undergraduate Information Technology Student from Ghazi University, DG Khan. I have interned twice with SoftZone IT Solution. & worked on a few projects.
-
-Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (Java), and Web Development (React, NodeJs, MySQL). And what I might lack in skills I make up for with my determination to learn. 
-
-Outside of tech, I am a tea lover, an avid actor and have spent my university days exploring tea stall.
+Outside of tech, I am a tea lover, an avid actor, and a tea stall explorer.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [workforkhauf@gmail.com](mailto:workforkhauf@gmail.com)
