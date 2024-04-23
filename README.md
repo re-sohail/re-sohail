@@ -1,7 +1,7 @@
 Hi 👋 My name is Sohail Khan
 ============================
 
-Web Developer @ SoftZone IT Solution | React, GSAP
+Web Developer @ DevsCollab | React, GSAP
 -----------------------
 
 As a Web Developer at SoftZone IT Solution, I have developed specialized online platforms for various industries, such as livestock, auction, and cars, using JavaScript, Node.js, and MySQL. I have leveraged my skills in GreenSock Animation Platform (GSAP), Scroll Trigger, and Locomotive to create dynamic and engaging web pages that enhance the user experience and satisfaction.
