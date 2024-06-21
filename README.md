@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<h3 align="center">A passionate MERN Stack developer and UI/UX designer ♻️</h3>
+<h3 align="center">A passionate MERN Stack developer and UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devparamjeet&label=Profile%20views&color=blueviolet&style=flat" alt="devparamjeet" /> </p>
 <p align="left"> <a href="https://www.instagram.com/__mr.param__/" target="blank">Follow</a> </p>
