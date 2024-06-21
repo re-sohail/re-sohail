@@ -4,9 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<h3>A passionate MERN Stack developer and UI/UX designer</h3>
-
-<p align="right"> <a href="https://www.instagram.com/re_sohail/" target="blank">Click Me</a> </p>
+<h3>A passionate MERN Stack developer and UI/UX designer</h3> <p align="right"> <a href="https://www.instagram.com/re_sohail/" target="blank">Click Me</a> </p>
 
 - 🔭 Working on <a href="https://devscollab.com" target="_blank">DevsCollab</a>
 
