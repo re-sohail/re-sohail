@@ -1,10 +1,10 @@
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
- <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="80"/>  I'm Sohail Khan. Nice to see you.🤗 </h1> 
+ <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="80"/>  I'm <a href="https://www.instagram.com/re_sohail/" target="blank">Sohail Khan</a>. Nice to see you.🤗 </h1> 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<h3>A passionate MERN Stack developer and UI/UX designer</h3> <p align="right"> <a href="https://www.instagram.com/re_sohail/" target="blank">Click Me</a> </p>
+<h3>A passionate MERN Stack developer and UI/UX designer</h3>
 
 - 🔭 Working on <a href="https://devscollab.com" target="_blank">DevsCollab</a>
 
