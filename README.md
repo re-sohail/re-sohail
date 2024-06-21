@@ -1,19 +1,29 @@
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
- <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href='' target="_blank">Sohail Khan</a>. Nice to see you.🤗 </h1> 
-============================
+ <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href=# target="_blank">Paramjeet Chaudhary</a>. Nice to see you.🤗 </h1> 
 
-Web Developer @ DevsCollab | React, GSAP
------------------------
 
-As a Web Developer at SoftZone IT Solution, I have developed specialized online platforms for various industries, such as livestock, auction, and cars, using JavaScript, Node.js, and MySQL. I have leveraged my skills in GreenSock Animation Platform (GSAP), Scroll Trigger, and Locomotive to create dynamic and engaging web pages that enhance the user experience and satisfaction.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-I am an undergraduate student at Ghazi University, pursuing a Bachelor of Science in Information Technology. I have a passion for learning and exploring new technologies and frameworks, such as React and Node.js, that drive change and innovation in the world. I have also earned multiple certifications in HTML5, CSS3, and JavaScript from KGCoding by Prashant Sir and other Certification provider's Companies, demonstrating my commitment and proficiency in web development. 
+<h3 align="center">A passionate Full Stack developer and UI/UX designer ♻️</h3>
 
-Outside of tech, I am a tea lover, an avid actor, and a tea stall explorer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devparamjeet&label=Profile%20views&color=blueviolet&style=flat" alt="devparamjeet" /> </p>
+<p align="left"> <a href="https://www.instagram.com/__mr.param__/" target="blank">Follow</a> </p>
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [workforkhauf@gmail.com](mailto:workforkhauf@gmail.com)
-* 🧠  I'm learning React js and Node js
+- 🔭 Working on <a href="https://gravitycoding.com" target="_blank">Gravity Coding</a>
+
+<!-- - 🌱 I’m currently learning  **** -->
+
+- 👯 I’m looking to collaborate with other content creators **.**
+
+- 🥅 2023 Goals: Contribute more to Open Source projects **.**
+
+- 💬 Ask me about **Web development ,BackEnd ,Database , Javascript , UI design**
+
+- 📫 How to reach me **officialshadowx14@gmail.com**
+
+<!-- - ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝** -->
+
+
 
 ### Skills
 
