@@ -6,10 +6,9 @@
 
 <h3>A passionate MERN Stack developer and UI/UX designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devparamjeet&label=Profile%20views&color=blueviolet&style=flat" alt="devparamjeet" /> </p>
-<p align="left"> <a href="https://www.instagram.com/__mr.param__/" target="blank">Follow</a> </p>
+<p align="right"> <a href="https://www.instagram.com/re_sohail/" target="blank">Click Me</a> </p>
 
-- 🔭 Working on <a href="https://gravitycoding.com" target="_blank">DevsCollab</a>
+- 🔭 Working on <a href="https://devscollab.com" target="_blank">DevsCollab</a>
 
 <!-- - 🌱 I’m currently learning  **** -->
 
