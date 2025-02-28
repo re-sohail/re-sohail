@@ -1,7 +1,5 @@
 <h1 align="center">Sohail Khan</h1>
 
----
-
 **Current Focus**  
 Building scalable web applications at [DevsCollab](https://devscollab.com).  
 Specializing in modern JavaScript ecosystems and full-stack development.
