@@ -1,5 +1,4 @@
 <h1 align="center">Sohail Khan</h1>
-<h3 align="center">JavaScript Developer | MERN Stack Specialist</h3>
 
 ---
 
